@@ -1,0 +1,16 @@
+Site original : https://music-marnew-instruments.com/
+
+SIMON Jules : Page cours, le footer et le bouton pour revenir en haut de la page
+FRON Rafaël : Page boutique
+CABADET-BOGDANSKI Alban: Page d'accueil et le header avec le burger menu
+
+
+
+Tout d'abord nous avons pris le temps d'analyser le site web qu'on allait refaire. Sur un papier on a noté 
+les différentes pages nécessaires, puis fait une maquette papier du site. 
+Nous nous sommes donc réparti les 3 pages à créer. Chacun donnait des idées pour les pages des autres, 
+des conseils, ainsi que des améliorations à apporter. La communication était au rendez-vous et nous avons super bien géré le travail d'équipe. Cela nous a permis de construire un site de manière rapide, efficace, 
+sans stress pour la deadline, et tout en travaillant tout de même les autres matières. 
+
+
+
